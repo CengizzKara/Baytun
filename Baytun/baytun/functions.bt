@@ -1,0 +1,4 @@
+craft add(a,b)
+yield a + b
+seto z = add(3, 7)
+reveal z

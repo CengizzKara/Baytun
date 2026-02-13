@@ -1,0 +1,6 @@
+seto x = 3
+judge x > 2
+reveal __COND__
+loop x < 6
+seto x = compute x + 1
+reveal x

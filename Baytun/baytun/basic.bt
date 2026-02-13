@@ -1,0 +1,4 @@
+seto x = 10
+seto y = 5
+compute x + y
+reveal x y _
